@@ -90,11 +90,11 @@ HOC Item,Annex II Definition,Functional Team - Department,Project job code,Emplo
 1.03,,Regulatory,Senior Manager,AT108770,66.0
 1.03,,Regulatory,Vice President,QS146648,65.0
 1.03,PREB Rate Order Filing (Initial Budgets and Liability Waiver approvals) Total,,,,351.0
-2.01,Development and Implementation of an Operations Takeover Plan for Transmission and Sub-Trans,iOsspioenra Itniosindse and Outside of the Plant,Engineer,AT112360,15.0
+2.01,Development and Implementation of an Operations Takeover Plan for Transmission and Sub-Transmission Inside and Outside of the Plant,Operations,Engineer,AT112360,15.0
 2.01,,Operations,Senior Manager,AT005226,12.0
 2.01,,Utility Transformation,Engineer,TEMP097,64.0
-2.01,Development and Implementation of an Operations Takeover Plan for Transmission and Sub-Tran,mission Inside and Outside of the Plant Total,,,91.0
-2.02,Development and Implementation of an Operational Takeover Plan for the Electric Distribution Syst,mOperations,Engineer,AT112360,4.0
+2.01,Development and Implementation of an Operations Takeover Plan for Transmission and Sub-Transmission Inside and Outside of the Plant Total,,,,91.0
+2.02,Development and Implementation of an Operational Takeover Plan for the Electric Distribution Syst,Operations,Engineer,AT112360,4.0
 2.02,,Utility Transformation,Director,QT088262,25.0
 2.02,,Utility Transformation,Senior Analyst,TEMP109,80.0
 2.02,,Utility Transformation,Vice President,QT088356,4.0
@@ -670,11 +670,11 @@ HOC Item,Annex II Definition,Functional Team - Department,Project job code,Emplo
 9.07,,Regulatory,Senior Manager,AT108770,29.5
 9.07,,Regulatory,Vice President,QS146648,34.5
 9.07,System Operation Principles Regulatory Approval Total,,,,221.0
-10.02,"Assuming Responsibility for Securing Use of Assets, Facilities, IT / OT, etc.",Financial Management,Manager,AT019946,5.0
+10.02,"Assuming Responsibility for Securing Use of Assets, Facilities, ITOT, etc.",Financial Management,Manager,AT019946,5.0
 10.02,,Financial Management,Manager,QS061408,6.0
 10.02,,Financial Management,Senior Manager,AT114365,50.0
 10.02,,Financial Management,Vice President,QS017171,40.5
-10.02,"Assuming Responsibility for Securing Use of Assets, Facilities, IT / OT, etc. Total",,,,101.5
+10.02,"Assuming Responsibility for Securing Use of Assets, Facilities, ITOT, etc. Total",,,,101.5
 10.03,Assuming Existing Subcontracts,Financial Management,Senior Analyst,AT102871,15.0
 10.03,,Financial Management,Senior Analyst,AT103807,13.0
 10.03,,Financial Management,Senior Analyst,TEMP003,15.5
