@@ -18,6 +18,15 @@ CREATE TABLE Summary_of_Hours_by_HOC_Item_previous_months_csv (
 );
 
 
+CREATE TABLE Employee_Category_Summary (
+    employee_category TEXT,
+    hourly_rate DECIMAL(6, 2),
+    hours_worked DECIMAL(6, 1),
+    monthly_total DECIMAL(10, 2),
+    PRIMARY KEY (employee_category)
+);
+
+
 CREATE VIEW Summary_of_Hours_by_HOC_Item_csv_union AS
 SELECT * FROM Summary_of_Hours_by_HOC_Item_csv
 UNION ALL
@@ -68,9 +77,19 @@ CREATE VIEW employees_by_project_job_code AS
 SELECT
 	project_job_code,
 	count(*) count,
-	sum(sum_of_time_hours) sum_of_time_hours
+	sum(sum_of_time_hours) computed_hours_worked,
+	summary.hours_worked reported_hours_worked,
+	summary.hourly_rate * sum(sum_of_time_hours)
+		AS computed_monthly_total,
+	summary.monthly_total reported_monthly_total
 FROM employees
-GROUP BY project_job_code
+INNER JOIN Employee_Category_Summary summary
+	ON summary.employee_category = employees.project_job_code
+GROUP BY
+	project_job_code,
+	summary.hours_worked,
+	summary.hourly_rate,
+	summary.monthly_total
 ORDER BY count DESC;
 
 
@@ -89,6 +108,11 @@ COPY Summary_of_Hours_by_HOC_Item_previous_months_csv
 FROM '/datos/2021-05/Summary_of_Hours_by_HOC_Item_previous_months.csv'
 CSV ENCODING 'UTF-8' HEADER NULL '';
 ANALYZE VERBOSE Summary_of_Hours_by_HOC_Item_previous_months_csv;
+
+COPY Employee_Category_Summary
+FROM '/datos/2021-05/Employee_Category_Summary.csv'
+CSV ENCODING 'UTF-8' HEADER NULL '';
+ANALYZE VERBOSE Employee_Category_Summary;
 
 REFRESH MATERIALIZED VIEW hoc_item_annex_2_definition;
 ANALYZE VERBOSE hoc_item_annex_2_definition;
