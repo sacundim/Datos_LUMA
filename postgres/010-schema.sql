@@ -8,13 +8,29 @@ CREATE TABLE Summary_of_Hours_by_HOC_Item_csv (
 );
 
 
+CREATE TABLE Summary_of_Hours_by_HOC_Item_previous_months_csv (
+    hoc_item TEXT,
+    annex_2_definition TEXT,
+    functional_team_department TEXT,
+    project_job_code TEXT,
+    employee_id TEXT,
+    sum_of_time_hours DECIMAL(6, 1)
+);
+
+
+CREATE VIEW Summary_of_Hours_by_HOC_Item_csv_union AS
+SELECT * FROM Summary_of_Hours_by_HOC_Item_csv
+UNION ALL
+SELECT * FROM Summary_of_Hours_by_HOC_Item_previous_months_csv;
+
+
 -- Extraer la relación entre las columnas `hoc_item` y
 -- `annex_2_definition` del CSV
 CREATE MATERIALIZED VIEW hoc_item_annex_2_definition AS
 SELECT
 	hoc_item,
 	max(annex_2_definition) annex_2_definition
-FROM Summary_of_Hours_by_HOC_Item_csv
+FROM Summary_of_Hours_by_HOC_Item_csv_union
 WHERE annex_2_definition NOT LIKE '% Total'
 GROUP BY hoc_item
 ORDER BY hoc_item;
@@ -28,7 +44,7 @@ SELECT
 	project_job_code,
 	employee_id,
 	sum_of_time_hours
-FROM Summary_of_Hours_by_HOC_Item_csv csv
+FROM Summary_of_Hours_by_HOC_Item_csv_union csv
 INNER JOIN hoc_item_annex_2_definition def
 	USING (hoc_item)
 WHERE def.annex_2_definition NOT LIKE '% Total'
@@ -68,6 +84,11 @@ COPY Summary_of_Hours_by_HOC_Item_csv
 FROM '/datos/2021-05/Summary_of_Hours_by_HOC_Item.csv'
 CSV ENCODING 'UTF-8' HEADER NULL '';
 ANALYZE VERBOSE Summary_of_Hours_by_HOC_Item_csv;
+
+COPY Summary_of_Hours_by_HOC_Item_previous_months_csv
+FROM '/datos/2021-05/Summary_of_Hours_by_HOC_Item_previous_months.csv'
+CSV ENCODING 'UTF-8' HEADER NULL '';
+ANALYZE VERBOSE Summary_of_Hours_by_HOC_Item_previous_months_csv;
 
 REFRESH MATERIALIZED VIEW hoc_item_annex_2_definition;
 ANALYZE VERBOSE hoc_item_annex_2_definition;

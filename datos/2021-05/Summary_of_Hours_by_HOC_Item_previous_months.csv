@@ -1,0 +1,165 @@
+HOC Item,Annex II Definition,Functional Team - Department,Project job code,Employee ID #,Sum of Time (Hours)
+1,General & Transition Management,Executive,Administrative Support,AT114368,47
+1,,Executive,Vice President,QS082634,13.5
+1,,Financial Management,Director,MC900016,84.5
+1,,HSE and Quality,Field Tech,AT104629,6
+1,,Human Resources,Manager,QS017211,16
+1,,Integration Management Office,Vice President,AT014535,53.5
+1,,Operations,Director,MC900015,2
+1,,Operations,Director,QS116459,1
+1,,Operations,Field Supervisor,AT020434,0.5
+1,,Operations,Vice President,AT022129,0.5
+1,,Regulatory,Director,AT201990,3
+1,,Utility Transformation,Administrative Support,QT088060,6
+1,,Utility Transformation,Analyst,QT088167,12
+1,,Utility Transformation,Manager,AT009474,20
+1,,Utility Transformation,Vice President,QT088048,40
+1,General & Transition Management Total,,,,305.5
+1.01,Government Approvals,Regulatory,Manager,AT208674,139
+1.01,Government Approvals Total,,,,139
+1.02,"Plan to Address Gaps in Assets, Technology, Processes, etc. (plan to include cost estimates)",Regulatory,Manager,AT208674,51
+1.02,,Utility Transformation,Vice President,QT088356,12
+1.02,"Plan to Address Gaps in Assets, Technology, Processes, etc. (plan to include cost estimates) Total",,,,63
+1.03,PREB Rate Order Filing (Initial Budgets and Liability Waiver approvals),Regulatory,Director,AT201990,94
+1.03,,Regulatory,Senior Manager,AT108770,22.5
+1.03,PREB Rate Order Filing (Initial Budgets and Liability Waiver approvals) Total,,,,116.5
+2.01,Development and Implementation of an Operations Takeover Plan for Transmission and Sub-Trans,iUsstiiolinty I nTrsaidnes faonrdm Oatuiotsnide of the Plant,Vice President,QT088356,7
+2.01,Development and Implementation of an Operations Takeover Plan for Transmission and Sub-Tran,mission Inside and Outside of the Plant Total,,,7
+2.0301,Transition Plan for T&D Control Centers,Utility Transformation,Vice President,QT088208,18
+2.0301,Transition Plan for T&D Control Centers Total,,,,18
+2.0302,Transition Plan for Operations and Maintenance (O&M) Activities,Operations,Director,MC900015,6.5
+2.0302,,Operations,Director,QS116459,1
+2.0302,,Operations,Field Supervisor,AT111882,72
+2.0302,Transition Plan for Operations and Maintenance (O&M) Activities Total,,,,79.5
+2.0303,Emergency Response/Disaster Recovery/Business Continuity Plans,Operations,Field Supervisor,AT111882,8
+2.0303,Emergency Response/Disaster Recovery/Business Continuity Plans Total,,,,8
+2.0305,Asset Management,Utility Transformation,Director,QT088262,2
+2.0305,,Utility Transformation,Manager,AT010451,23.5
+2.0305,,Utility Transformation,Vice President,QT088356,3
+2.0305,Asset Management Total,,,,28.5
+2.0306,Workforce Management & Training Plan,HSE and Quality,Analyst,QSPEREZJ10,0.5
+2.0306,,HSE and Quality,Director,NWjphel29,36
+2.0306,,HSE and Quality,Director,NWjwies77,2
+2.0306,,HSE and Quality,Senior Analyst,NWpwarn58,51
+2.0306,Workforce Management & Training Plan Total,,,,89.5
+2.0307,Safety Management Plan,HSE and Quality,Director,QS080701,40
+2.0307,,HSE and Quality,Field Tech,AT104629,17
+2.0307,Safety Management Plan Total,,,,57
+2.0308,Engineering and Asset Management,Utility Transformation,Director,QT088251,14.5
+2.0308,,Utility Transformation,Director,QT088262,15
+2.0308,,Utility Transformation,Director,QT088279,37
+2.0308,,Utility Transformation,Engineer,QT088194,18
+2.0308,,Utility Transformation,Engineer,QT088258,17
+2.0308,,Utility Transformation,Engineer,TEMP356,15
+2.0308,,Utility Transformation,Field Supervisor,QT088227,28
+2.0308,,Utility Transformation,Senior Manager,TEMP032,17
+2.0308,,Utility Transformation,Trainer,TEMP026,130
+2.0308,,Utility Transformation,Vice President,QT088017,15
+2.0308,,Utility Transformation,Vice President,QT088356,4
+2.0308,Engineering and Asset Management Total,,,,310.5
+2.031,Materials Management & Warehouse Plan,Operations,Field Supervisor,AT020434,3
+2.031,Materials Management & Warehouse Plan Total,,,,3
+2.0311,System Operations Plan,Operations,Director,QS116459,1
+2.0311,System Operations Plan Total,,,,1
+3.04,Development of System Remediation Plan,Operations,Director,QS116459,1
+3.04,,Operations,Field Supervisor,AT020434,0.5
+3.04,,Utility Transformation,Engineer,TEMP401,9
+3.04,,Utility Transformation,Manager,AT003668,10
+3.04,Development of System Remediation Plan Total,,,,20.5
+3.05,Approval of System Remediation Plan,Regulatory,Director,AT201990,31
+3.05,,Utility Transformation,Vice President,QT088208,-7
+3.05,Approval of System Remediation Plan Total,,,,24
+4.04,Development of a Customer Service Transition Plan,Customer Service,Analyst,AT101610,32
+4.04,,Customer Service,Analyst,TEMP285,16
+4.04,,Customer Service,Senior Analyst,TEMP069,40
+4.04,,Customer Service,Senior Analyst,TEMP385,40
+4.04,,Customer Service,Senior Analyst,TEMP320,40
+4.04,Development of a Customer Service Transition Plan Total,,,,168
+6.04,Establishing a Financial Accounting System and Account Structure,Financial Management,Director,AT017148,32
+6.04,,Financial Management,Director,QS017250,30
+6.04,Establishing a Financial Accounting System and Account Structure Total,,,,62
+6.05,Preparing Initial Budgets and Other Financial Forecasts,Financial Management,Manager,AT103739,43
+6.05,,Financial Management,Manager,QS061408,5
+6.05,,Operations,Director,QS116459,1
+6.05,,Operations,Field Supervisor,AT020434,2
+6.05,Preparing Initial Budgets and Other Financial Forecasts Total,,,,51
+6.07,Evaluating and Updating Payroll and Labor Cost Reporting systems,Financial Management,Director,QS183719,150
+6.07,Evaluating and Updating Payroll and Labor Cost Reporting systems Total,,,,150
+6.09,Processes & Procedures and Overall Internal Controls,Regulatory,Manager,AT208674,19
+6.09,Processes & Procedures and Overall Internal Controls Total,,,,19
+7.02,Policies and Procedures,Regulatory,Engineer,QT088325,115
+7.02,,Regulatory,Manager,AT208674,18
+7.02,Policies and Procedures Total,,,,133
+8.02,Recruiting and Staffing,Financial Management,Director,MC900016,43
+8.02,,Financial Management,Manager,QS061408,1.5
+8.02,,Financial Management,Senior Analyst,AT017528,4.5
+8.02,,Financial Management,Senior Manager,AT114365,22
+8.02,,Human Resources,Administrative Support,AT115913,36
+8.02,,Human Resources,Administrative Support,AT115398,49
+8.02,,Human Resources,Director,AT003336,34
+8.02,,Human Resources,Director,QS080837,16
+8.02,,Human Resources,Vice President,MC900004,26.5
+8.02,,Operations,Director,MC900015,10
+8.02,,Operations,Director,QS116459,33
+8.02,,Operations,Field Supervisor,AT020434,2
+8.02,,Utility Transformation,Analyst,AT011487,48
+8.02,,Utility Transformation,Director,QT088212,40
+8.02,,Utility Transformation,Director,TEMP031,45.5
+8.02,,Utility Transformation,Vice President,QT088015,20
+8.02,,Utility Transformation,Vice President,QT088356,8
+8.02,Recruiting and Staffing Total,,,,439
+8.05,Stand Up Human Capital Management (HCM) System,Human Resources,Vice President,MC900004,7
+8.05,Stand Up Human Capital Management (HCM) System Total,,,,7
+8.06,Communication Plan,Communications,Director,MC900007,52
+8.06,Communication Plan Total,,,,52
+8.07,Training (Workforce Development) Plan,Operations,Director,MC900015,13.5
+8.07,,Operations,Director,QS116459,1
+8.07,Training (Workforce Development) Plan Total,,,,14.5
+8.08,Develop Employee Retirement Plan,Human Resources,Vice President,MC900004,40.5
+8.08,Develop Employee Retirement Plan Total,,,,40.5
+8.09,Occupational Health and Wellness,Human Resources,Vice President,MC900004,18
+8.09,Occupational Health and Wellness Total,,,,18
+8.12,Develop a Community Investment Plan,Communications,Director,MC900007,12
+8.12,,Corporate Services,Director,AT099584,20
+8.12,Develop a Community Investment Plan Total,,,,32
+9.03,Non-Federal Funding Procurement Manual Approval,Financial Management,Director,AT104919,80
+9.03,Non-Federal Funding Procurement Manual Approval Total,,,,80
+9.07,System Operation Principles Regulatory Approval,Regulatory,Director,AT201990,17.5
+9.07,System Operation Principles Regulatory Approval Total,,,,17.5
+10.02,"Assuming Responsibility for Securing Use of Assets, Facilities, IT / OT, etc.",Financial Management,Director,MC900016,49.5
+10.02,,Financial Management,Director,QS017186,1
+10.02,,Financial Management,Senior Analyst,AT017528,26
+10.02,,Financial Management,Senior Manager,AT114365,10
+10.02,"Assuming Responsibility for Securing Use of Assets, Facilities, IT / OT, etc. Total",,,,86.5
+10.03,Assuming Existing Subcontracts,Financial Management,Senior Analyst,AT017528,82
+10.03,,Financial Management,Vice President,AT115657,37.5
+10.03,Assuming Existing Subcontracts Total,,,,119.5
+12.02,Required Insurance,Financial Management,Manager,QS017134,2
+12.02,,Financial Management,Manager,QS061408,33.5
+12.02,Required Insurance Total,,,,35.5
+12.03,Baseline Performance Levels,Regulatory,Director,AT201990,16
+12.03,,Utility Transformation,Senior Director,QT088289,29.5
+12.03,Baseline Performance Levels Total,,,,45.5
+12.1,Section 4.5: Conditions Precedent to Service Commencement Date,Legal,Vice President,QS045177,51.5
+12.1,Section 4.5: Conditions Precedent to Service Commencement Date Total,,,,51.5
+Non HOC 06,Regulatory Support of Handover Checklist Items,Regulatory,Director,AT201990,123.5
+Non HOC 06,Regulatory Support of Handover Checklist Items Total,,,,123.5
+Non HOC 07,Front-End Transition Legal support and advice,Legal,Administrative Support,QS100254,1.5
+Non HOC 07,Front-End Transition Legal support and advice Total,,,,1.5
+Non HOC 10,Interconnection Agreements,Utility Transformation,Vice President,QT088015,4
+Non HOC 10,Interconnection Agreements Total,,,,4
+Non HOC 13,IRP Coordination,Regulatory,Director,QT088262,39
+Non HOC 13,IRP Coordination Total,,,,39
+Non HOC 14,GenCo-GridCo integration,Regulatory,Engineer,QT088325,48
+Non HOC 14,GenCo-GridCo integration Total,,,,48
+Non HOC 15,LUMA MC Ongoing Back Office Support,Financial Management,Director,QS183719,4
+Non HOC 15,LUMA MC Ongoing Back Office Support Total,,,,4
+Non HOC 16,PREB Resolutions and Orders,Regulatory,Director,AT201990,118.5
+Non HOC 16,,Utility Transformation,Director,QT088262,113
+Non HOC 16,,Utility Transformation,Engineer,QT088329,36.5
+Non HOC 16,,Utility Transformation,Vice President,QT088208,7
+Non HOC 16,,Utility Transformation,Vice President,QT088356,8
+Non HOC 16,PREB Resolutions and Orders Total,,,,283
+Non HOC 18,FOMB Fiscal Plan and Protocol Agreement,Financial Management,Manager,AT103739,6
+Non HOC 18,,Regulatory,Director,AT201990,55
+Non HOC 18,FOMB Fiscal Plan and Protocol Agreement Total,,,,61
