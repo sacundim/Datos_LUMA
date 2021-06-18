@@ -28,9 +28,11 @@ CREATE TABLE Employee_Category_Summary (
 
 
 CREATE VIEW Summary_of_Hours_by_HOC_Item_csv_union AS
-SELECT * FROM Summary_of_Hours_by_HOC_Item_csv
+SELECT true mes_corriente, *
+FROM Summary_of_Hours_by_HOC_Item_csv
 UNION ALL
-SELECT * FROM Summary_of_Hours_by_HOC_Item_previous_months_csv;
+SELECT false mes_corriente, *
+FROM Summary_of_Hours_by_HOC_Item_previous_months_csv;
 
 
 -- Extraer la relación entre las columnas `hoc_item` y
@@ -47,6 +49,7 @@ ORDER BY hoc_item;
 
 CREATE MATERIALIZED VIEW Summary_of_Hours_by_HOC_Item AS
 SELECT
+    mes_corriente,
 	hoc_item,
 	def.annex_2_definition,
 	functional_team_department,
@@ -67,7 +70,11 @@ SELECT
 	employee_id,
 	max(project_job_code) project_job_code,
 	count(DISTINCT project_job_code) distinct_project_job_code,
-	sum(sum_of_time_hours) sum_of_time_hours
+	sum(sum_of_time_hours) sum_of_time_hours,
+	sum(sum_of_time_hours) FILTER (WHERE mes_corriente)
+	    AS sum_of_time_hours_current_month,
+	sum(sum_of_time_hours) FILTER (WHERE NOT mes_corriente)
+	    AS sum_of_time_hours_earlier_months
 FROM Summary_of_Hours_by_HOC_Item
 GROUP BY employee_id
 ORDER BY employee_id;
