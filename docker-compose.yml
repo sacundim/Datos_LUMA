@@ -1,0 +1,19 @@
+---
+version: '3.2'
+services:
+  db:
+    image: library/postgres:13-alpine
+    environment:
+      POSTGRES_PASSWORD: password
+    volumes:
+    - type: bind
+      source: ./postgres
+      target: /docker-entrypoint-initdb.d
+      read_only: true
+    - type: bind
+      source: ./datos
+      target: /datos
+      read_only: true
+      consistency: cached
+    ports:
+    - 5432:5432

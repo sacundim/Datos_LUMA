@@ -1,0 +1,847 @@
+HOC Item,Annex II Definition,Functional Team - Department,Project job code,Employee ID #,Sum of Time (Hours)
+1,General & Transition Management,Capital Programs and Back End Transition,Vice President,AT004051,59.0
+1,,Corporate Services,Director,TEMP375,176.0
+1,,Corporate Services,Senior Analyst,TEMP139,166.0
+1,,Corporate Services,Senior Analyst,TEMP090,172.0
+1,,Corporate Services,Senior Manager,MC900008,158.0
+1,,Corporate Services,Senior Manager,MC900009,43.0
+1,,Corporate Services,Vice President,MC900003,34.0
+1,,Customer Service,Analyst,TEMP372,120.0
+1,,Customer Service,Analyst,TEMP296,80.0
+1,,Customer Service,Director,MC900027,4.0
+1,,Customer Service,Field Supervisor,AT022731,15.0
+1,,Customer Service,Manager,AT015858,15.0
+1,,Customer Service,Senior Analyst,AT102970,9.5
+1,,Customer Service,Senior Analyst,TEMP255,80.0
+1,,Customer Service,Senior Analyst,TEMP213,40.0
+1,,Customer Service,Senior Analyst,TEMP063,120.0
+1,,Customer Service,Senior Analyst,TEMP075,120.0
+1,,Customer Service,Senior Analyst,TEMP313,120.0
+1,,Customer Service,Senior Analyst,TEMP131,120.0
+1,,Customer Service,Senior Analyst,TEMP314,72.0
+1,,Customer Service,Senior Analyst,TEMP350,36.0
+1,,Customer Service,Senior Analyst,TEMP272,36.0
+1,,Customer Service,Senior Analyst,TEMP293,9.0
+1,,Executive,Administrative Support,AT114368,151.0
+1,,Executive,Vice President,AT003196,181.0
+1,,Executive,Vice President,QS037890,18.0
+1,,Financial Management,Manager,QS061408,3.0
+1,,Financial Management,Senior Manager,AT114365,18.5
+1,,Financial Management,Vice President,QS017171,4.5
+1,,HSE and Quality,Director,NWjphel29,52.0
+1,,HSE and Quality,Field Tech,MC900017,131.0
+1,,HSE and Quality,Senior Director,NWmpepi02,59.0
+1,,HSE and Quality,Vice President,MC900001,72.0
+1,,Integration Management Office,Administrative Support,AT016798,156.0
+1,,Integration Management Office,Administrative Support,AT018495,3.5
+1,,Integration Management Office,Administrative Support,AT105397,141.5
+1,,Integration Management Office,Administrative Support,AT116075,18.5
+1,,Integration Management Office,Analyst,AT105533,9.0
+1,,Integration Management Office,Analyst,AT109687,120.0
+1,,Integration Management Office,Manager,AT004852,122.0
+1,,Integration Management Office,Manager,AT103480,98.0
+1,,Integration Management Office,Senior Analyst,AT109252,100.0
+1,,Integration Management Office,Senior Manager,AT017167,212.0
+1,,Integration Management Office,Vice President,AT014535,220.0
+1,,Integration Management Office,Vice President,AT017346,99.0
+1,,ITOT,Senior Analyst,AT102751,5.0
+1,,ITOT,Vice President,QS071472,32.0
+1,,Operations,Director,MC900012,123.0
+1,,Operations,Director,MC900015,1.0
+1,,Operations,Director,QS116459,4.0
+1,,Operations,Engineer,AT112360,15.0
+1,,Operations,Field Supervisor,AT020449,8.0
+1,,Operations,Field Supervisor,AT021005,17.0
+1,,Operations,Field Supervisor,AT021565,1.0
+1,,Operations,Field Supervisor,QS179065,91.0
+1,,Operations,Manager,AT014817,21.5
+1,,Operations,Senior Analyst,TEMP395,8.0
+1,,Operations,Senior Analyst,TEMP140,40.0
+1,,Operations,Senior Manager,AT003498,10.0
+1,,Operations,Senior Manager,AT019843,10.0
+1,,Operations,Vice President,AT022129,35.0
+1,,Regulatory,Senior Manager,AT108770,4.5
+1,,Regulatory,Vice President,QS146648,4.5
+1,,Utility Transformation,Administrative Support,QT088060,25.0
+1,,Utility Transformation,Analyst,QT088167,44.5
+1,,Utility Transformation,Director,MC900002,105.0
+1,,Utility Transformation,Director,QT088213,90.5
+1,,Utility Transformation,Director,QT088326,49.0
+1,,Utility Transformation,Engineer,AT103813,15.0
+1,,Utility Transformation,Engineer,AT110040,1.5
+1,,Utility Transformation,Engineer,QT088329,1.0
+1,,Utility Transformation,Manager,AT002033,150.0
+1,,Utility Transformation,Manager,AT021428,71.5
+1,,Utility Transformation,Manager,AT108042,52.5
+1,,Utility Transformation,Vice President,QT088015,10.0
+1,,Utility Transformation,Vice President,QT088048,4.0
+1,General & Transition Management Total,,,,4844.0
+1.01,Government Approvals,Regulatory,Manager,AT208674,82.0
+1.01,,Regulatory,Vice President,QS146648,3.0
+1.01,Government Approvals Total,,,,85.0
+1.02,"Plan to Address Gaps in Assets, Technology, Processes, etc. (plan to include cost estimates)",Customer Service,Administrative Support,TEMP087,3.0
+1.02,,Regulatory,Manager,AT208674,79.0
+1.02,,Utility Transformation,Manager,AT022686,2.0
+1.02,,Utility Transformation,Vice President,QT088356,32.0
+1.02,"Plan to Address Gaps in Assets, Technology, Processes, etc. (plan to include cost estimates) Total",,,,116.0
+1.03,PREB Rate Order Filing (Initial Budgets and Liability Waiver approvals),Regulatory,Analyst,AT111542,68.0
+1.03,,Regulatory,Analyst,AT112548,72.0
+1.03,,Regulatory,Director,AT201990,80.0
+1.03,,Regulatory,Senior Manager,AT108770,66.0
+1.03,,Regulatory,Vice President,QS146648,65.0
+1.03,PREB Rate Order Filing (Initial Budgets and Liability Waiver approvals) Total,,,,351.0
+2.01,Development and Implementation of an Operations Takeover Plan for Transmission and Sub-Trans,iOsspioenra Itniosindse and Outside of the Plant,Engineer,AT112360,15.0
+2.01,,Operations,Senior Manager,AT005226,12.0
+2.01,,Utility Transformation,Engineer,TEMP097,64.0
+2.01,Development and Implementation of an Operations Takeover Plan for Transmission and Sub-Tran,mission Inside and Outside of the Plant Total,,,91.0
+2.02,Development and Implementation of an Operational Takeover Plan for the Electric Distribution Syst,mOperations,Engineer,AT112360,4.0
+2.02,,Utility Transformation,Director,QT088262,25.0
+2.02,,Utility Transformation,Senior Analyst,TEMP109,80.0
+2.02,,Utility Transformation,Vice President,QT088356,4.0
+2.02,Development and Implementation of an Operational Takeover Plan for the Electric Distribution Sy,tem Total,,,113.0
+2.0301,Transition Plan for T&D Control Centers,Utility Transformation,Director,QT088358,131.0
+2.0301,,Utility Transformation,Engineer,TEMP171,23.0
+2.0301,,Utility Transformation,Engineer,TEMP137,36.0
+2.0301,,Utility Transformation,Manager,AT009474,157.5
+2.0301,,Utility Transformation,Manager,AT108042,20.0
+2.0301,,Utility Transformation,Manager,TEMP025,168.0
+2.0301,,Utility Transformation,Senior Analyst,TEMP277,40.0
+2.0301,,Utility Transformation,Senior Director,QT088130,14.0
+2.0301,,Utility Transformation,Senior Director,QT088285,40.0
+2.0301,,Utility Transformation,Senior Director,QT088359,73.0
+2.0301,,Utility Transformation,Vice President,QT088208,60.0
+2.0301,Transition Plan for T&D Control Centers Total,,,,762.5
+2.0302,Transition Plan for Operations and Maintenance (O&M) Activities,Operations,Director,MC900015,11.5
+2.0302,,Operations,Director,QS116459,68.0
+2.0302,,Operations,Field Supervisor,AT005130,42.0
+2.0302,,Operations,Field Supervisor,AT020434,2.0
+2.0302,,Operations,Field Supervisor,AT111882,111.0
+2.0302,,Operations,Manager,AT014495,150.0
+2.0302,,Operations,Manager,AT014817,111.5
+2.0302,,Operations,Senior Manager,AT005226,58.0
+2.0302,,Operations,Senior Manager,AT019843,3.5
+2.0302,,Operations,Vice President,AT022129,103.0
+2.0302,Transition Plan for Operations and Maintenance (O&M) Activities Total,,,,660.5
+2.0303,Emergency Response/Disaster Recovery/Business Continuity Plans,HSE and Quality,Vice President,MC900001,57.0
+2.0303,,Integration Management Office,Manager,AT103480,91.5
+2.0303,,Integration Management Office,Vice President,AT017346,4.0
+2.0303,,Operations,Senior Manager,AT003498,39.0
+2.0303,,Operations,Senior Manager,AT005226,4.0
+2.0303,,Operations,Vice President,AT022129,33.0
+2.0303,Emergency Response/Disaster Recovery/Business Continuity Plans Total,,,,228.5
+2.0304,Fleet Management Plan,Operations,Field Supervisor,AT021005,8.0
+2.0304,,Operations,Field Supervisor,AT021565,26.0
+2.0304,,Operations,Vice President,QS0DU100,16.0
+2.0304,Fleet Management Plan Total,,,,50.0
+2.0305,Asset Management,Utility Transformation,Director,QT088113,1.0
+2.0305,,Utility Transformation,Engineer,AT019026,1.0
+2.0305,,Utility Transformation,Field Supervisor,AT103914,17.5
+2.0305,,Utility Transformation,Manager,AT021428,11.5
+2.0305,,Utility Transformation,Manager,TEMP399,128.5
+2.0305,,Utility Transformation,Senior Analyst,TEMP303,80.0
+2.0305,,Utility Transformation,Senior Analyst,TEMP341,80.0
+2.0305,,Utility Transformation,Senior Analyst,TEMP177,80.0
+2.0305,,Utility Transformation,Senior Analyst,TEMP332,80.0
+2.0305,,Utility Transformation,Senior Analyst,TEMP150,80.0
+2.0305,,Utility Transformation,Senior Analyst,TEMP319,40.0
+2.0305,,Utility Transformation,Senior Analyst,TEMP260,80.0
+2.0305,,Utility Transformation,Senior Analyst,TEMP277,40.0
+2.0305,,Utility Transformation,Senior Director,QT088041,33.0
+2.0305,,Utility Transformation,Senior Director,QT088095,3.0
+2.0305,,Utility Transformation,Senior Director,QT088252,13.0
+2.0305,,Utility Transformation,Senior Manager,QT089031,35.0
+2.0305,,Utility Transformation,Vice President,QS085708,1.0
+2.0305,Asset Management Total,,,,804.5
+2.0306,Workforce Management & Training Plan,HSE and Quality,Director,NWjphel29,15.0
+2.0306,,HSE and Quality,Director,NWjwies77,4.0
+2.0306,,HSE and Quality,Manager,NWjwats22,91.0
+2.0306,,HSE and Quality,Senior Analyst,NWpwarn58,9.5
+2.0306,,HSE and Quality,Trainer,NWjlope28,176.0
+2.0306,,HSE and Quality,Vice President,MC900001,3.0
+2.0306,Workforce Management & Training Plan Total,,,,298.5
+2.0307,Safety Management Plan,HSE and Quality,Administrative Support,MC900036,120.0
+2.0307,,HSE and Quality,Analyst,MC900020,171.0
+2.0307,,HSE and Quality,Analyst,TEMP033,160.0
+2.0307,,HSE and Quality,Director,QS080701,160.0
+2.0307,,HSE and Quality,Field Tech,AT104629,135.0
+2.0307,,HSE and Quality,Field Tech,MC900017,48.0
+2.0307,,HSE and Quality,Senior Analyst,TEMP093,121.5
+2.0307,,HSE and Quality,Senior Analyst,TEMP076,120.0
+2.0307,,HSE and Quality,Vice President,MC900001,22.0
+2.0307,,HSE and Quality,Vice President,QS145447,48.0
+2.0307,,Operations,Field Supervisor,AT020449,3.0
+2.0307,Safety Management Plan Total,,,,1108.5
+2.0308,Engineering and Asset Management,Utility Transformation,Analyst,QT088290,31.5
+2.0308,,Utility Transformation,Analyst,TEMP247,27.0
+2.0308,,Utility Transformation,Director,QT088231,86.0
+2.0308,,Utility Transformation,Director,QT088243,24.0
+2.0308,,Utility Transformation,Director,QT088251,96.5
+2.0308,,Utility Transformation,Director,QT088254,68.0
+2.0308,,Utility Transformation,Director,QT088279,109.5
+2.0308,,Utility Transformation,Director,QT088315,174.0
+2.0308,,Utility Transformation,Director,QT088339,49.0
+2.0308,,Utility Transformation,Director,QT088344,167.0
+2.0308,,Utility Transformation,Director,QT088346,156.0
+2.0308,,Utility Transformation,Director,TEMP028,30.5
+2.0308,,Utility Transformation,Engineer,AT018880,125.0
+2.0308,,Utility Transformation,Engineer,AT103813,90.5
+2.0308,,Utility Transformation,Engineer,AT108079,134.0
+2.0308,,Utility Transformation,Engineer,QT088194,53.0
+2.0308,,Utility Transformation,Engineer,QT088258,56.0
+2.0308,,Utility Transformation,Engineer,QT088296,76.0
+2.0308,,Utility Transformation,Engineer,QT088307,141.0
+2.0308,,Utility Transformation,Engineer,QT088330,148.0
+2.0308,,Utility Transformation,Engineer,QT089077,17.5
+2.0308,,Utility Transformation,Engineer,TEMP010,9.5
+2.0308,,Utility Transformation,Engineer,TEMP052,19.0
+2.0308,,Utility Transformation,Engineer,TEMP338,136.0
+2.0308,,Utility Transformation,Engineer,TEMP356,22.5
+2.0308,,Utility Transformation,Field Supervisor,QT088227,78.0
+2.0308,,Utility Transformation,Manager,AT010451,88.0
+2.0308,,Utility Transformation,Manager,TEMP042,24.5
+2.0308,,Utility Transformation,Senior Analyst,TEMP379,72.0
+2.0308,,Utility Transformation,Senior Analyst,TEMP060,72.0
+2.0308,,Utility Transformation,Senior Analyst,TEMP185,80.0
+2.0308,,Utility Transformation,Senior Director,QT088083,38.0
+2.0308,,Utility Transformation,Senior Director,QT088095,94.5
+2.0308,,Utility Transformation,Senior Director,QT088130,29.0
+2.0308,,Utility Transformation,Senior Director,QT088160,43.0
+2.0308,,Utility Transformation,Senior Director,QT088289,97.0
+2.0308,,Utility Transformation,Senior Director,QT088341,19.5
+2.0308,,Utility Transformation,Senior Director,QT088342,144.0
+2.0308,,Utility Transformation,Senior Director,QT088347,84.5
+2.0308,,Utility Transformation,Senior Director,QT088357,96.0
+2.0308,,Utility Transformation,Senior Director,QT088382,78.0
+2.0308,,Utility Transformation,Senior Director,TEMP024,13.5
+2.0308,,Utility Transformation,Senior Director,TEMP027,49.0
+2.0308,,Utility Transformation,Senior Manager,QT088360,144.0
+2.0308,,Utility Transformation,Senior Manager,QT089048,47.5
+2.0308,,Utility Transformation,Senior Manager,TEMP032,47.5
+2.0308,,Utility Transformation,Senior Manager,TEMP040,121.0
+2.0308,,Utility Transformation,Senior Manager,TEMP043,22.0
+2.0308,,Utility Transformation,Vice President,QT088017,4.0
+2.0308,,Utility Transformation,Vice President,QT088247,81.0
+2.0308,,Utility Transformation,Vice President,QT088305,27.0
+2.0308,,Utility Transformation,Vice President,QT088356,48.0
+2.0308,,Utility Transformation,Vice President,TEMP035,16.0
+2.0308,Engineering and Asset Management Total,,,,3805.5
+2.0309,Identification of Real Estate,Financial Management,Manager,AT019946,6.0
+2.0309,,Financial Management,Vice President,QS017171,2.0
+2.0309,Identification of Real Estate Total,,,,8.0
+2.0311,System Operations Plan,Operations,Director,QS116459,4.0
+2.0311,,Operations,Engineer,AT112360,52.0
+2.0311,,Operations,Field Supervisor,AT020449,65.5
+2.0311,,Operations,Field Supervisor,AT021005,96.0
+2.0311,,Operations,Field Supervisor,AT104787,93.5
+2.0311,,Operations,Senior Analyst,TEMP141,95.0
+2.0311,,Operations,Senior Manager,AT003498,30.5
+2.0311,,Operations,Senior Manager,AT005226,12.0
+2.0311,,Operations,Senior Manager,AT019843,78.0
+2.0311,System Operations Plan Total,,,,526.5
+2.0312,Vegetation Management Plan,Operations,Director,MC900012,0.5
+2.0312,,Operations,Field Supervisor,AT021565,67.0
+2.0312,,Operations,Field Supervisor,AT103914,3.0
+2.0312,Vegetation Management Plan Total,,,,70.5
+2.05,Environmental Exposure Management Plan,HSE and Quality,Administrative Support,MC900036,40.0
+2.05,,HSE and Quality,Director,AT022534,250.5
+2.05,,HSE and Quality,Manager,QS157251,104.0
+2.05,,HSE and Quality,Vice President,MC900001,8.0
+2.05,Environmental Exposure Management Plan Total,,,,402.5
+3.02,Development of Improvement Initiatives,Utility Transformation,Director,TEMP028,34.0
+3.02,Development of Improvement Initiatives Total,,,,34.0
+3.04,Development of System Remediation Plan,Operations,Director,QS116459,4.0
+3.04,,Operations,Engineer,AT112360,16.0
+3.04,,Operations,Senior Manager,AT003498,9.0
+3.04,Development of System Remediation Plan Total,,,,29.0
+3.05,Approval of System Remediation Plan,Regulatory,Analyst,AT111542,52.5
+3.05,,Regulatory,Analyst,AT112548,54.0
+3.05,,Regulatory,Director,AT201990,71.0
+3.05,,Regulatory,Manager,AT006055,127.5
+3.05,,Regulatory,Senior Manager,AT108770,16.0
+3.05,,Regulatory,Vice President,QS146648,30.0
+3.05,,Utility Transformation,Manager,AT010451,50.0
+3.05,Approval of System Remediation Plan Total,,,,401.0
+4.01,Evaluating Customer Service Facilities and Assets,Customer Service,Director,MC900027,1.0
+4.01,Evaluating Customer Service Facilities and Assets Total,,,,1.0
+4.02,Evaluating and Updating Customer Service Policies and Procedures,Customer Service,Analyst,AT019859,5.0
+4.02,,Customer Service,Analyst,TEMP002,112.5
+4.02,,Customer Service,Director,MC900027,21.0
+4.02,,Customer Service,Manager,AT015858,30.0
+4.02,,Customer Service,Senior Analyst,AT102970,109.5
+4.02,Evaluating and Updating Customer Service Policies and Procedures Total,,,,278.0
+4.03,Development of a Meter Reading Plan,Utility Transformation,Analyst,QT088290,2.0
+4.03,,Utility Transformation,Director,QT088337,62.5
+4.03,,Utility Transformation,Director,TEMP034,134.0
+4.03,,Utility Transformation,Engineer,QT088309,76.0
+4.03,Development of a Meter Reading Plan Total,,,,274.5
+4.04,Development of a Customer Service Transition Plan,Customer Service,Administrative Support,TEMP321,112.0
+4.04,,Customer Service,Administrative Support,TEMP207,112.0
+4.04,,Customer Service,Administrative Support,TEMP223,112.0
+4.04,,Customer Service,Analyst,AT019859,152.5
+4.04,,Customer Service,Analyst,AT101610,45.0
+4.04,,Customer Service,Analyst,MC900023,168.0
+4.04,,Customer Service,Analyst,MC900037,160.0
+4.04,,Customer Service,Analyst,MC900039,160.5
+4.04,,Customer Service,Analyst,TEMP285,160.0
+4.04,,Customer Service,Analyst,TEMP149,183.0
+4.04,,Customer Service,Analyst,TEMP148,120.0
+4.04,,Customer Service,Analyst,TEMP296,40.0
+4.04,,Customer Service,Director,MC900027,25.0
+4.04,,Customer Service,Director,TEMP045,160.0
+4.04,,Customer Service,Field Supervisor,MC900026,160.0
+4.04,,Customer Service,Manager,AT015858,75.0
+4.04,,Customer Service,Manager,MC900035,127.0
+4.04,,Customer Service,Manager,MC900040,171.0
+4.04,,Customer Service,Senior Analyst,AT102970,19.0
+4.04,,Customer Service,Senior Analyst,TEMP205,160.0
+4.04,,Customer Service,Senior Analyst,TEMP261,160.0
+4.04,,Customer Service,Senior Analyst,TEMP172,156.5
+4.04,,Customer Service,Senior Analyst,TEMP222,152.0
+4.04,,Customer Service,Senior Analyst,TEMP255,40.0
+4.04,,Customer Service,Senior Analyst,TEMP111,120.0
+4.04,,Customer Service,Senior Analyst,TEMP311,216.0
+4.04,,Customer Service,Senior Analyst,TEMP219,120.0
+4.04,,Customer Service,Senior Analyst,TEMP120,116.0
+4.04,,Customer Service,Senior Analyst,TEMP069,80.0
+4.04,,Customer Service,Senior Analyst,TEMP165,120.0
+4.04,,Customer Service,Senior Analyst,TEMP237,120.0
+4.04,,Customer Service,Senior Analyst,TEMP213,80.0
+4.04,,Customer Service,Senior Analyst,TEMP117,120.0
+4.04,,Customer Service,Senior Analyst,TEMP266,120.0
+4.04,,Customer Service,Senior Analyst,TEMP198,120.0
+4.04,,Customer Service,Senior Analyst,TEMP096,120.0
+4.04,,Customer Service,Senior Analyst,TEMP086,120.0
+4.04,,Customer Service,Senior Analyst,TEMP315,120.0
+4.04,,Customer Service,Senior Analyst,TEMP348,120.0
+4.04,,Customer Service,Senior Analyst,TEMP385,80.0
+4.04,,Customer Service,Senior Analyst,TEMP147,120.0
+4.04,,Customer Service,Senior Analyst,TEMP328,88.0
+4.04,,Customer Service,Senior Analyst,TEMP298,120.0
+4.04,,Customer Service,Senior Analyst,TEMP349,112.0
+4.04,,Customer Service,Senior Analyst,TEMP263,120.0
+4.04,,Customer Service,Senior Analyst,TEMP243,112.0
+4.04,,Customer Service,Senior Analyst,TEMP066,120.0
+4.04,,Customer Service,Senior Analyst,TEMP351,120.0
+4.04,,Customer Service,Senior Analyst,TEMP241,104.0
+4.04,,Customer Service,Senior Analyst,TEMP331,100.0
+4.04,,Customer Service,Senior Analyst,TEMP269,120.0
+4.04,,Customer Service,Senior Analyst,TEMP244,100.5
+4.04,,Customer Service,Senior Analyst,TEMP371,120.0
+4.04,,Customer Service,Senior Analyst,TEMP134,120.0
+4.04,,Customer Service,Senior Analyst,TEMP276,120.0
+4.04,,Customer Service,Senior Analyst,TEMP153,117.0
+4.04,,Customer Service,Senior Analyst,TEMP326,120.0
+4.04,,Customer Service,Senior Analyst,TEMP290,118.0
+4.04,,Customer Service,Senior Analyst,TEMP064,120.0
+4.04,,Customer Service,Senior Analyst,TEMP126,120.0
+4.04,,Customer Service,Senior Analyst,TEMP360,120.0
+4.04,,Customer Service,Senior Analyst,TEMP327,120.0
+4.04,,Customer Service,Senior Analyst,TEMP170,80.0
+4.04,,Customer Service,Senior Analyst,TEMP073,117.0
+4.04,,Customer Service,Senior Analyst,TEMP146,120.0
+4.04,,Customer Service,Senior Analyst,TEMP098,120.0
+4.04,,Customer Service,Senior Analyst,TEMP344,120.0
+4.04,,Customer Service,Senior Analyst,TEMP305,128.0
+4.04,,Customer Service,Senior Analyst,TEMP211,120.0
+4.04,,Customer Service,Senior Analyst,TEMP292,120.0
+4.04,,Customer Service,Senior Analyst,TEMP157,120.0
+4.04,,Customer Service,Senior Analyst,TEMP318,120.0
+4.04,,Customer Service,Senior Analyst,TEMP354,120.0
+4.04,,Customer Service,Senior Analyst,TEMP291,120.0
+4.04,,Customer Service,Senior Analyst,TEMP080,120.0
+4.04,,Customer Service,Senior Analyst,TEMP308,110.0
+4.04,,Customer Service,Senior Analyst,TEMP393,120.0
+4.04,,Customer Service,Senior Analyst,TEMP175,112.0
+4.04,,Customer Service,Senior Analyst,TEMP145,120.0
+4.04,,Customer Service,Senior Analyst,TEMP361,120.0
+4.04,,Customer Service,Senior Analyst,TEMP136,120.0
+4.04,,Customer Service,Senior Analyst,TEMP248,128.0
+4.04,,Customer Service,Senior Analyst,TEMP088,119.0
+4.04,,Customer Service,Senior Analyst,TEMP268,160.0
+4.04,,Customer Service,Senior Analyst,TEMP138,120.0
+4.04,,Customer Service,Senior Analyst,TEMP382,120.0
+4.04,,Customer Service,Senior Analyst,TEMP358,120.0
+4.04,,Customer Service,Senior Analyst,TEMP077,118.0
+4.04,,Customer Service,Senior Analyst,TEMP191,120.0
+4.04,,Customer Service,Senior Analyst,TEMP166,120.0
+4.04,,Customer Service,Senior Analyst,TEMP347,120.0
+4.04,,Customer Service,Senior Analyst,TEMP074,120.0
+4.04,,Customer Service,Senior Analyst,TEMP275,120.0
+4.04,,Customer Service,Senior Analyst,TEMP335,120.0
+4.04,,Customer Service,Senior Analyst,TEMP082,120.0
+4.04,,Customer Service,Senior Analyst,TEMP091,120.0
+4.04,,Customer Service,Senior Analyst,TEMP391,118.0
+4.04,,Customer Service,Senior Analyst,TEMP388,120.0
+4.04,,Customer Service,Senior Analyst,TEMP099,112.0
+4.04,,Customer Service,Senior Analyst,TEMP384,160.0
+4.04,,Customer Service,Senior Analyst,TEMP176,120.0
+4.04,,Customer Service,Senior Analyst,TEMP155,117.0
+4.04,,Customer Service,Senior Analyst,TEMP133,112.0
+4.04,,Customer Service,Senior Analyst,TEMP316,98.0
+4.04,,Customer Service,Senior Analyst,TEMP339,120.0
+4.04,,Customer Service,Senior Analyst,TEMP143,119.0
+4.04,,Customer Service,Senior Analyst,TEMP167,120.0
+4.04,,Customer Service,Senior Analyst,TEMP121,104.0
+4.04,,Customer Service,Senior Analyst,TEMP320,80.0
+4.04,,Customer Service,Senior Analyst,TEMP373,120.0
+4.04,,Customer Service,Senior Analyst,TEMP390,88.0
+4.04,,Customer Service,Senior Analyst,TEMP299,120.0
+4.04,,Customer Service,Senior Analyst,TEMP355,110.0
+4.04,,Customer Service,Senior Analyst,TEMP089,120.0
+4.04,,Customer Service,Senior Analyst,TEMP127,103.5
+4.04,,Customer Service,Senior Analyst,TEMP374,118.0
+4.04,,Customer Service,Senior Analyst,TEMP333,160.0
+4.04,,Customer Service,Senior Analyst,TEMP352,112.0
+4.04,,Customer Service,Senior Analyst,TEMP236,152.0
+4.04,,Customer Service,Senior Analyst,TEMP314,40.0
+4.04,,Customer Service,Senior Analyst,TEMP206,120.0
+4.04,,Customer Service,Senior Analyst,TEMP336,120.0
+4.04,,Customer Service,Senior Analyst,TEMP370,104.0
+4.04,,Customer Service,Senior Analyst,TEMP083,120.0
+4.04,,Customer Service,Senior Analyst,TEMP304,120.0
+4.04,,Customer Service,Senior Analyst,TEMP101,120.0
+4.04,,Customer Service,Senior Analyst,TEMP343,120.0
+4.04,,Customer Service,Senior Analyst,TEMP234,120.0
+4.04,,Customer Service,Senior Analyst,TEMP123,120.0
+4.04,,Customer Service,Senior Analyst,TEMP283,115.5
+4.04,,Customer Service,Senior Analyst,TEMP274,110.0
+4.04,,Customer Service,Senior Analyst,TEMP387,116.0
+4.04,,Customer Service,Senior Analyst,TEMP342,120.0
+4.04,,Customer Service,Senior Analyst,TEMP182,120.0
+4.04,,Customer Service,Senior Analyst,TEMP116,120.0
+4.04,,Customer Service,Senior Analyst,TEMP221,120.0
+4.04,,Customer Service,Senior Analyst,TEMP218,120.0
+4.04,,Customer Service,Senior Analyst,TEMP119,120.0
+4.04,,Customer Service,Senior Analyst,TEMP284,74.0
+4.04,,Customer Service,Senior Analyst,TEMP196,111.0
+4.04,,Customer Service,Senior Analyst,TEMP195,120.0
+4.04,,Customer Service,Senior Analyst,TEMP103,120.0
+4.04,,Customer Service,Senior Analyst,TEMP181,116.0
+4.04,,Customer Service,Senior Analyst,TEMP215,120.0
+4.04,,Customer Service,Senior Analyst,TEMP249,112.0
+4.04,,Customer Service,Senior Analyst,TEMP106,116.0
+4.04,,Customer Service,Senior Analyst,TEMP350,76.0
+4.04,,Customer Service,Senior Analyst,TEMP159,40.0
+4.04,,Customer Service,Senior Analyst,TEMP324,120.0
+4.04,,Customer Service,Senior Analyst,TEMP293,71.0
+4.04,,Customer Service,Senior Analyst,TEMP362,80.0
+4.04,,Customer Service,Senior Analyst,TEMP226,112.0
+4.04,,Customer Service,Senior Analyst,TEMP256,80.0
+4.04,,Customer Service,Senior Analyst,TEMP330,79.0
+4.04,,Customer Service,Senior Analyst,TEMP161,40.0
+4.04,,Customer Service,Senior Analyst,TEMP288,115.0
+4.04,,Customer Service,Senior Analyst,TEMP210,117.0
+4.04,,Customer Service,Senior Analyst,TEMP317,112.0
+4.04,,Customer Service,Senior Analyst,TEMP280,64.0
+4.04,,Customer Service,Senior Analyst,TEMP070,104.0
+4.04,,Customer Service,Senior Analyst,TEMP169,80.0
+4.04,,Customer Service,Senior Analyst,TEMP201,116.0
+4.04,,Customer Service,Senior Analyst,TEMP365,43.0
+4.04,,Customer Service,Senior Analyst,TEMP072,43.0
+4.04,,Customer Service,Senior Analyst,TEMP216,43.0
+4.04,,Customer Service,Senior Analyst,TEMP158,40.0
+4.04,,Customer Service,Senior Analyst,TEMP212,43.0
+4.04,,Customer Service,Senior Analyst,TEMP071,43.0
+4.04,,Customer Service,Senior Analyst,TEMP250,38.0
+4.04,,Customer Service,Senior Analyst,TEMP337,43.0
+4.04,,Customer Service,Senior Analyst,TEMP294,40.0
+4.04,,Customer Service,Senior Analyst,TEMP267,40.0
+4.04,,Customer Service,Senior Analyst,TEMP346,40.0
+4.04,,Customer Service,Senior Analyst,TEMP307,43.0
+4.04,,Customer Service,Senior Analyst,TEMP203,40.0
+4.04,,Customer Service,Senior Analyst,TEMP323,43.0
+4.04,,Customer Service,Senior Manager,AT015517,60.0
+4.04,Development of a Customer Service Transition Plan Total,,,,19232.0
+4.07,Development and Implementation of a Customer Service Technology,Customer Service,Analyst,AT019654,157.5
+4.07,,Customer Service,Director,MC900027,27.0
+4.07,,Customer Service,Senior Manager,AT015517,30.0
+4.07,Development and Implementation of a Customer Service Technology Total,,,,214.5
+4.08,Develop and Implement a Non-Technical Energy Loss Reduction Plan,Utility Transformation,Senior Analyst,TEMP319,40.0
+4.08,Develop and Implement a Non-Technical Energy Loss Reduction Plan Total,,,,40.0
+4.09,Establish Integration Between Customer Services & T&D Ops,Customer Service,Director,MC900027,2.0
+4.09,,Customer Service,Field Supervisor,AT022731,142.5
+4.09,,Customer Service,Manager,AT015858,30.0
+4.09,,Customer Service,Senior Analyst,AT102970,5.5
+4.09,Establish Integration Between Customer Services & T&D Ops Total,,,,180.0
+5.04,Development of Cyber Security and Business Continuity Plan,ITOT,Senior Analyst,AT102751,70.5
+5.04,Development of Cyber Security and Business Continuity Plan Total,,,,70.5
+5.05,Development of an IT Asset Management Program,Operations,Field Supervisor,AT005130,48.0
+5.05,,Operations,Senior Analyst,TEMP364,48.0
+5.05,,Operations,Senior Analyst,TEMP115,8.0
+5.05,,Operations,Senior Analyst,TEMP302,48.0
+5.05,,Operations,Senior Analyst,TEMP233,48.0
+5.05,,Operations,Senior Analyst,TEMP278,48.0
+5.05,,Operations,Senior Analyst,TEMP144,88.0
+5.05,,Operations,Senior Analyst,TEMP369,72.0
+5.05,,Operations,Senior Analyst,TEMP242,80.0
+5.05,,Operations,Senior Analyst,TEMP129,48.0
+5.05,,Operations,Senior Analyst,TEMP394,64.0
+5.05,,Operations,Senior Analyst,TEMP202,72.0
+5.05,,Operations,Senior Analyst,TEMP262,64.0
+5.05,,Operations,Senior Analyst,TEMP108,64.0
+5.05,,Operations,Senior Analyst,TEMP395,16.0
+5.05,,Operations,Senior Analyst,TEMP188,64.0
+5.05,,Operations,Senior Analyst,TEMP200,64.0
+5.05,,Operations,Senior Analyst,TEMP197,64.0
+5.05,,Operations,Senior Analyst,TEMP306,72.0
+5.05,,Operations,Senior Analyst,TEMP224,72.0
+5.05,,Operations,Senior Analyst,TEMP353,64.0
+5.05,,Operations,Senior Analyst,TEMP279,64.0
+5.05,,Operations,Senior Analyst,TEMP254,24.0
+5.05,,Operations,Senior Analyst,TEMP235,72.0
+5.05,,Operations,Senior Analyst,TEMP104,64.0
+5.05,,Operations,Senior Analyst,TEMP154,64.0
+5.05,,Operations,Senior Analyst,TEMP273,64.0
+5.05,,Operations,Senior Analyst,TEMP378,80.0
+5.05,,Operations,Senior Analyst,TEMP312,80.0
+5.05,,Operations,Senior Analyst,TEMP231,80.0
+5.05,,Operations,Senior Analyst,TEMP204,88.0
+5.05,,Operations,Senior Analyst,TEMP322,40.0
+5.05,,Operations,Senior Analyst,TEMP128,80.0
+5.05,,Operations,Senior Analyst,TEMP180,88.0
+5.05,,Operations,Senior Analyst,TEMP067,88.0
+5.05,,Operations,Senior Analyst,TEMP334,88.0
+5.05,,Operations,Senior Analyst,TEMP113,80.0
+5.05,,Operations,Senior Analyst,TEMP140,40.0
+5.05,,Operations,Senior Analyst,TEMP253,88.0
+5.05,Development of an IT Asset Management Program Total,,,,2488.0
+5.07,Commencement Cutover Planning,ITOT,Administrative Support,MC900024,80.0
+5.07,,ITOT,Administrative Support,MC900029,190.5
+5.07,,ITOT,Administrative Support,MC900030,199.0
+5.07,,ITOT,Administrative Support,MC900031,193.0
+5.07,,ITOT,Administrative Support,MC900032,216.5
+5.07,,ITOT,Analyst,TEMP029,152.5
+5.07,,ITOT,Director,QS017868,189.0
+5.07,,ITOT,Manager,AT015685,251.0
+5.07,,ITOT,Senior Analyst,AT102751,25.5
+5.07,,ITOT,Senior Analyst,AT201680,374.0
+5.07,,ITOT,Senior Analyst,TEMP030,156.0
+5.07,,ITOT,Vice President,MC900005,209.0
+5.07,Commencement Cutover Planning Total,,,,2236.0
+6.04,Establishing a Financial Accounting System and Account Structure,Financial Management,Director,AT017148,223.0
+6.04,,Financial Management,Director,QS017250,190.5
+6.04,,Financial Management,Senior Analyst,AT014994,148.0
+6.04,,Financial Management,Senior Analyst,TEMP006,12.0
+6.04,,Financial Management,Vice President,QS017171,8.0
+6.04,Establishing a Financial Accounting System and Account Structure Total,,,,581.5
+6.05,Preparing Initial Budgets and Other Financial Forecasts,Financial Management,Manager,AT103739,179.0
+6.05,,Financial Management,Senior Analyst,AT014994,36.0
+6.05,,Integration Management Office,Manager,AT004852,2.5
+6.05,,Operations,Director,QS116459,4.0
+6.05,,Utility Transformation,Vice President,TEMP046,44.5
+6.05,Preparing Initial Budgets and Other Financial Forecasts Total,,,,266.0
+6.06,Establishing Bank Accounts,Financial Management,Director,QS183719,17.0
+6.06,Establishing Bank Accounts Total,,,,17.0
+6.07,Evaluating and Updating Payroll and Labor Cost Reporting systems,Financial Management,Director,QS183719,75.0
+6.07,,Financial Management,Manager,TEMP036,206.0
+6.07,,Financial Management,Manager,TEMP044,211.0
+6.07,,Financial Management,Manager,TEMP049,222.0
+6.07,,Financial Management,Manager,TEMP050,212.0
+6.07,,Financial Management,Manager,TEMP051,219.0
+6.07,,Financial Management,Senior Analyst,TEMP173,54.0
+6.07,,Financial Management,Senior Analyst,TEMP389,53.0
+6.07,,Financial Management,Senior Analyst,TEMP265,53.0
+6.07,,Financial Management,Senior Analyst,TEMP122,53.0
+6.07,,Financial Management,Vice President,QS017171,8.0
+6.07,Evaluating and Updating Payroll and Labor Cost Reporting systems Total,,,,1366.0
+6.09,Processes & Procedures and Overall Internal Controls,Financial Management,Manager,AT204090,2.5
+6.09,,Regulatory,Engineer,QT088325,12.0
+6.09,,Regulatory,Manager,AT208674,52.0
+6.09,Processes & Procedures and Overall Internal Controls Total,,,,66.5
+7.02,Policies and Procedures,Regulatory,Engineer,QT088325,102.0
+7.02,Policies and Procedures Total,,,,102.0
+7.05,Project Worksheet Assessment (also covered under Section 4.3),Regulatory,Vice President,QS146648,2.0
+7.05,Project Worksheet Assessment (also covered under Section 4.3) Total,,,,2.0
+7.08,"Drafting, Revising and Finalizing Federal Funding Procurement Manual",Regulatory,Vice President,QS146648,12.0
+7.08,"Drafting, Revising and Finalizing Federal Funding Procurement Manual Total",,,,12.0
+8.02,Recruiting and Staffing,Capital Programs and Back End Transition,Manager,AT104560,2.0
+8.02,,Financial Management,Manager,AT103739,6.0
+8.02,,Financial Management,Manager,QS061408,1.5
+8.02,,Financial Management,Senior Manager,AT114365,80.5
+8.02,,Financial Management,Vice President,QS017171,5.5
+8.02,,Human Resources,Director,QS080837,95.0
+8.02,,Human Resources,Senior Analyst,AT103026,105.0
+8.02,,Human Resources,Senior Analyst,TEMP163,59.0
+8.02,,Human Resources,Senior Analyst,TEMP189,99.0
+8.02,,Human Resources,Senior Analyst,TEMP258,48.0
+8.02,,Integration Management Office,Analyst,QS191328,160.0
+8.02,,ITOT,Senior Analyst,AT102751,11.0
+8.02,,Operations,Director,MC900012,37.0
+8.02,,Operations,Director,QAGR100,8.0
+8.02,,Operations,Director,QS116459,68.0
+8.02,,Operations,Engineer,AT112360,18.0
+8.02,,Operations,Field Supervisor,AT005130,16.0
+8.02,,Operations,Field Supervisor,AT020434,6.0
+8.02,,Operations,Field Supervisor,AT020449,66.5
+8.02,,Operations,Field Supervisor,AT021005,41.0
+8.02,,Operations,Field Supervisor,AT021565,63.0
+8.02,,Operations,Field Supervisor,AT104787,26.5
+8.02,,Operations,Field Supervisor,AT111882,52.0
+8.02,,Operations,Field Supervisor,QS179065,69.5
+8.02,,Operations,Manager,AT014817,27.0
+8.02,,Operations,Senior Manager,AT003498,32.0
+8.02,,Operations,Senior Manager,AT005226,10.0
+8.02,,Operations,Senior Manager,AT019843,70.5
+8.02,,Operations,Vice President,AT022129,28.5
+8.02,,Regulatory,Vice President,QS146648,7.0
+8.02,,Utility Transformation,Director,QT088212,119.0
+8.02,,Utility Transformation,Director,QT088213,16.0
+8.02,,Utility Transformation,Director,TEMP031,163.0
+8.02,,Utility Transformation,Engineer,AT018880,25.0
+8.02,,Utility Transformation,Engineer,AT103813,14.0
+8.02,,Utility Transformation,Engineer,AT108079,16.0
+8.02,,Utility Transformation,Engineer,QT088329,0.5
+8.02,,Utility Transformation,Manager,AT004353,75.0
+8.02,,Utility Transformation,Manager,AT009474,37.0
+8.02,,Utility Transformation,Manager,AT010451,38.0
+8.02,,Utility Transformation,Manager,AT108042,31.5
+8.02,,Utility Transformation,Senior Analyst,TEMP060,3.0
+8.02,,Utility Transformation,Senior Director,QT088083,2.5
+8.02,,Utility Transformation,Vice President,QS085708,136.0
+8.02,,Utility Transformation,Vice President,QT088015,13.0
+8.02,,Utility Transformation,Vice President,QT088305,53.0
+8.02,,Utility Transformation,Vice President,QT088356,44.0
+8.02,,Human Resources,Vice President,QS055786,31.0
+8.02,Recruiting and Staffing Total,,,,2136.5
+8.05,Stand Up Human Capital Management (HCM) System,Human Resources,Director,QS080837,60.0
+8.05,,Human Resources,Senior Analyst,TEMP102,120.0
+8.05,,Human Resources,Senior Analyst,TEMP366,120.0
+8.05,,Human Resources,Senior Manager,MC900006,80.0
+8.05,Stand Up Human Capital Management (HCM) System Total,,,,380.0
+8.06,Communication Plan,Communications,Director,MC900007,205.0
+8.06,,Communications,Director,QS145369,5.0
+8.06,,Communications,Vice President,MC900003,20.0
+8.06,,Corporate Services,Senior Manager,MC900010,128.0
+8.06,,Corporate Services,Vice President,MC900003,87.0
+8.06,Communication Plan Total,,,,445.0
+8.07,Training (Workforce Development) Plan,Operations,Director,MC900015,7.5
+8.07,,Operations,Director,QS116459,4.0
+8.07,,Operations,Field Supervisor,AT005130,62.0
+8.07,,Operations,Field Supervisor,AT020449,17.0
+8.07,,Operations,Field Supervisor,AT104787,22.5
+8.07,,Operations,Senior Analyst,TEMP364,40.0
+8.07,,Operations,Senior Analyst,TEMP115,78.5
+8.07,,Operations,Senior Analyst,TEMP302,40.0
+8.07,,Operations,Senior Analyst,TEMP233,36.0
+8.07,,Operations,Senior Analyst,TEMP278,40.0
+8.07,,Operations,Senior Analyst,TEMP369,16.0
+8.07,,Operations,Senior Analyst,TEMP394,16.0
+8.07,,Operations,Senior Analyst,TEMP202,16.0
+8.07,,Operations,Senior Analyst,TEMP262,16.0
+8.07,,Operations,Senior Analyst,TEMP108,16.0
+8.07,,Operations,Senior Analyst,TEMP395,16.0
+8.07,,Operations,Senior Analyst,TEMP188,16.0
+8.07,,Operations,Senior Analyst,TEMP200,16.0
+8.07,,Operations,Senior Analyst,TEMP197,16.0
+8.07,,Operations,Senior Analyst,TEMP306,16.0
+8.07,,Operations,Senior Analyst,TEMP224,16.0
+8.07,,Operations,Senior Analyst,TEMP353,16.0
+8.07,,Operations,Senior Analyst,TEMP279,16.0
+8.07,,Operations,Senior Analyst,TEMP254,16.0
+8.07,,Operations,Senior Analyst,TEMP235,16.0
+8.07,,Operations,Senior Analyst,TEMP104,16.0
+8.07,,Operations,Senior Analyst,TEMP154,16.0
+8.07,,Operations,Senior Analyst,TEMP273,16.0
+8.07,,Operations,Senior Manager,AT005226,48.0
+8.07,Training (Workforce Development) Plan Total,,,,683.5
+8.08,Develop Employee Retirement Plan,Human Resources,Director,QS080837,70.0
+8.08,,Human Resources,Senior Analyst,TEMP271,94.0
+8.08,,Human Resources,Senior Analyst,TEMP225,98.0
+8.08,Develop Employee Retirement Plan Total,,,,262.0
+8.12,Develop a Community Investment Plan,Corporate Services,Director,AT099584,19.5
+8.12,Develop a Community Investment Plan Total,,,,19.5
+9.01,Genco Shared Services Agreement Approval,Regulatory,Engineer,QT088325,8.0
+9.01,,Regulatory,Vice President,QS146648,4.5
+9.01,Genco Shared Services Agreement Approval Total,,,,12.5
+9.02,Emergency Response Plan Approval,Regulatory,Vice President,QS146648,5.0
+9.02,Emergency Response Plan Approval Total,,,,5.0
+9.03,Non-Federal Funding Procurement Manual Approval,Financial Management,Director,AT104919,112.0
+9.03,,Financial Management,Vice President,QS017171,23.0
+9.03,Non-Federal Funding Procurement Manual Approval Total,,,,135.0
+9.04,Physical Security Plan Approval,Utility Transformation,Manager,AT108042,9.0
+9.04,,Utility Transformation,Manager,AT114978,1.0
+9.04,Physical Security Plan Approval Total,,,,10.0
+9.05,Data Security Plan Approval,ITOT,Senior Analyst,AT102751,18.0
+9.05,Data Security Plan Approval Total,,,,18.0
+9.07,System Operation Principles Regulatory Approval,Regulatory,Analyst,AT111542,41.5
+9.07,,Regulatory,Analyst,AT112548,55.5
+9.07,,Regulatory,Director,AT201990,43.0
+9.07,,Regulatory,Engineer,QT088325,17.0
+9.07,,Regulatory,Senior Manager,AT108770,29.5
+9.07,,Regulatory,Vice President,QS146648,34.5
+9.07,System Operation Principles Regulatory Approval Total,,,,221.0
+10.02,"Assuming Responsibility for Securing Use of Assets, Facilities, IT / OT, etc.",Financial Management,Manager,AT019946,5.0
+10.02,,Financial Management,Manager,QS061408,6.0
+10.02,,Financial Management,Senior Manager,AT114365,50.0
+10.02,,Financial Management,Vice President,QS017171,40.5
+10.02,"Assuming Responsibility for Securing Use of Assets, Facilities, IT / OT, etc. Total",,,,101.5
+10.03,Assuming Existing Subcontracts,Financial Management,Senior Analyst,AT102871,15.0
+10.03,,Financial Management,Senior Analyst,AT103807,13.0
+10.03,,Financial Management,Senior Analyst,TEMP003,15.5
+10.03,,Financial Management,Vice President,AT115657,150.0
+10.03,,Financial Management,Vice President,QS017171,3.0
+10.03,Assuming Existing Subcontracts Total,,,,196.5
+12.02,Required Insurance,Financial Management,Manager,AT204090,7.0
+12.02,,Financial Management,Manager,QS017134,45.0
+12.02,,Financial Management,Manager,QS061408,153.5
+12.02,,Financial Management,Vice President,QS017171,12.5
+12.02,Required Insurance Total,,,,218.0
+12.03,Baseline Performance Levels,Utility Transformation,Senior Director,QT088289,48.0
+12.03,,Utility Transformation,Vice President,QS085708,2.0
+12.03,Baseline Performance Levels Total,,,,50.0
+12.1,Section 4.5: Conditions Precedent to Service Commencement Date,Corporate Services,Senior Analyst,TEMP139,17.5
+12.1,,Corporate Services,Senior Manager,MC900008,32.0
+12.1,,Corporate Services,Senior Manager,MC900009,39.0
+12.1,,Corporate Services,Vice President,MC900003,33.0
+12.1,,Legal,Vice President,QS045177,317.0
+12.1,Section 4.5: Conditions Precedent to Service Commencement Date Total,,,,438.5
+Non HOC 01,ManagementCo IT Systems,ITOT,Administrative Support,MC900024,40.0
+Non HOC 01,ManagementCo IT Systems Total,,,,40.0
+Non HOC 02,ServCo IT Systems,ITOT,Administrative Support,MC900034,202.5
+Non HOC 02,,ITOT,Director,QS017868,69.0
+Non HOC 02,,ITOT,Manager,QS055642,206.0
+Non HOC 02,,ITOT,Senior Analyst,AT022305,236.5
+Non HOC 02,,ITOT,Senior Analyst,AT102751,19.5
+Non HOC 02,,ITOT,Senior Analyst,QS017104,165.5
+Non HOC 02,,ITOT,Senior Analyst,TEMP005,25.5
+Non HOC 02,,ITOT,Vice President,MC900005,106.0
+Non HOC 02,ServCo IT Systems Total,,,,1030.5
+Non HOC 03,Open Claims Review,Corporate Services,Senior Manager,MC900009,9.5
+Non HOC 03,Open Claims Review Total,,,,9.5
+Non HOC 04,Stand Up Capital Program Organization,Capital Programs and Back End Transition,Manager,AT104560,140.5
+Non HOC 04,,Capital Programs and Back End Transition,Manager,AT110285,142.5
+Non HOC 04,,Capital Programs and Back End Transition,Trainer,TEMP208,41.5
+Non HOC 04,,Capital Programs and Back End Transition,Vice President,AT004051,138.0
+Non HOC 04,,Integration Management Office,Manager,AT004852,22.5
+Non HOC 04,,Integration Management Office,Vice President,AT017346,24.0
+Non HOC 04,Stand Up Capital Program Organization Total,,,,509.0
+Non HOC 06,Regulatory Support of Handover Checklist Items,Regulatory,Analyst,AT111542,48.0
+Non HOC 06,,Regulatory,Director,AT201990,71.0
+Non HOC 06,,Regulatory,Senior Manager,AT108770,14.0
+Non HOC 06,,Regulatory,Vice President,QS146648,3.0
+Non HOC 06,Regulatory Support of Handover Checklist Items Total,,,,136.0
+Non HOC 07,Front-End Transition Legal support and advice,Corporate Services,Senior Manager,MC900009,88.5
+Non HOC 07,,Legal,Administrative Support,QS100254,7.5
+Non HOC 07,,Legal,Senior Analyst,TEMP300,40.0
+Non HOC 07,Front-End Transition Legal support and advice Total,,,,136.0
+Non HOC 10,Interconnection Agreements,Utility Transformation,Analyst,TEMP038,136.0
+Non HOC 10,,Utility Transformation,Analyst,TEMP037,32.0
+Non HOC 10,,Utility Transformation,Director,QT088010,91.0
+Non HOC 10,,Utility Transformation,Director,QT088243,80.0
+Non HOC 10,,Utility Transformation,Engineer,QT088173,97.0
+Non HOC 10,,Utility Transformation,Engineer,QT088318,160.0
+Non HOC 10,,Utility Transformation,Manager,AT108042,1.0
+Non HOC 10,,Utility Transformation,Senior Director,QT088095,3.0
+Non HOC 10,,Utility Transformation,Senior Manager,QT088360,20.0
+Non HOC 10,,Utility Transformation,Senior Manager,TEMP039,29.0
+Non HOC 10,,Utility Transformation,Vice President,QT088015,2.0
+Non HOC 10,Interconnection Agreements Total,,,,651.0
+Non HOC 11,Development of System Operations Principles,Regulatory,Senior Director,QT088313,4.0
+Non HOC 11,Development of System Operations Principles Total,,,,4.0
+Non HOC 13,IRP Coordination,Regulatory,Director,QT088262,49.0
+Non HOC 13,IRP Coordination Total,,,,49.0
+Non HOC 14,GenCo-GridCo integration,Regulatory,Engineer,QT088325,17.0
+Non HOC 14,,Regulatory,Senior Director,QT088313,76.0
+Non HOC 14,,Regulatory,Vice President,QS146648,7.0
+Non HOC 14,GenCo-GridCo integration Total,,,,100.0
+Non HOC 15,LUMA MC Ongoing Back Office Support,Financial Management,Analyst,QS130160,1.0
+Non HOC 15,,Financial Management,Director,QS183719,88.5
+Non HOC 15,,Financial Management,Senior Analyst,QS178869,148.0
+Non HOC 15,,Financial Management,Vice President,QS017171,31.0
+Non HOC 15,LUMA MC Ongoing Back Office Support Total,,,,268.5
+Non HOC 16,PREB Resolutions and Orders,Financial Management,Vice President,QS017171,24.0
+Non HOC 16,,Integration Management Office,Vice President,AT017346,71.0
+Non HOC 16,,ITOT,Vice President,MC900005,18.0
+Non HOC 16,,Regulatory,Director,AT201990,21.5
+Non HOC 16,,Regulatory,Vice President,QS146648,1.0
+Non HOC 16,,Utility Transformation,Analyst,QT088290,40.0
+Non HOC 16,,Utility Transformation,Analyst,TEMP247,84.0
+Non HOC 16,,Utility Transformation,Director,MC900002,106.0
+Non HOC 16,,Utility Transformation,Director,QT088254,51.0
+Non HOC 16,,Utility Transformation,Director,QT088262,45.0
+Non HOC 16,,Utility Transformation,Engineer,AT018880,1.0
+Non HOC 16,,Utility Transformation,Engineer,AT103813,15.5
+Non HOC 16,,Utility Transformation,Engineer,QT088320,73.0
+Non HOC 16,,Utility Transformation,Engineer,QT088329,132.5
+Non HOC 16,,Utility Transformation,Manager,AT010451,53.0
+Non HOC 16,,Utility Transformation,Manager,AT021428,65.0
+Non HOC 16,,Utility Transformation,Manager,AT108042,124.5
+Non HOC 16,,Utility Transformation,Senior Director,QT088338,61.5
+Non HOC 16,,Utility Transformation,Senior Manager,QT088143,24.0
+Non HOC 16,,Utility Transformation,Vice President,QS085708,72.0
+Non HOC 16,,Utility Transformation,Vice President,QT088208,2.0
+Non HOC 16,,Utility Transformation,Vice President,QT088356,55.0
+Non HOC 16,PREB Resolutions and Orders Total,,,,1140.5
+Non Hoc 17,Corporate Services – Security,Corporate Services,Analyst,MC900022,168.0
+Non Hoc 17,,Corporate Services,Analyst,MC900025,168.0
+Non Hoc 17,,Corporate Services,Analyst,MC900028,168.0
+Non Hoc 17,,Corporate Services,Analyst,MC900033,172.0
+Non Hoc 17,,Corporate Services,Director,MC900013,257.0
+Non Hoc 17,,Corporate Services,Manager,MC900021,168.0
+Non Hoc 17,,Corporate Services,Senior Analyst,TEMP214,169.0
+Non Hoc 17,,Corporate Services,Senior Analyst,TEMP270,171.0
+Non Hoc 17,,Corporate Services,Senior Analyst,TEMP114,168.0
+Non Hoc 17,,Corporate Services,Senior Analyst,TEMP264,88.0
+Non Hoc 17,,Corporate Services,Senior Analyst,TEMP220,88.0
+Non Hoc 17,,Corporate Services,Senior Analyst,TEMP295,88.0
+Non Hoc 17,,Corporate Services,Senior Analyst,TEMP392,88.0
+Non Hoc 17,,Corporate Services,Senior Analyst,TEMP230,88.5
+Non Hoc 17,,Corporate Services,Senior Analyst,TEMP168,80.0
+Non Hoc 17,,Corporate Services,Vice President,MC900003,80.0
+Non Hoc 17,Corporate Services – Security Total,,,,2209.5
+Non HOC 18,FOMB Fiscal Plan and Protocol Agreement,Financial Management,Manager,AT103739,35.5
+Non HOC 18,,Financial Management,Vice President,QS017171,8.5
+Non HOC 18,,Regulatory,Director,AT201990,5.0
+Non HOC 18,,Regulatory,Senior Manager,AT108770,21.5
+Non HOC 18,,Regulatory,Vice President,QS146648,3.0
+Non HOC 18,FOMB Fiscal Plan and Protocol Agreement Total,,,,73.5
+8.07,,Operations,Director,QS116459,1
+8.07,Training (Workforce Development) Plan Total,,,,14.5
+8.08,Develop Employee Retirement Plan,Human Resources,Vice President,MC900004,40.5
+8.08,Develop Employee Retirement Plan Total,,,,40.5
+8.09,Occupational Health and Wellness,Human Resources,Vice President,MC900004,18
+8.09,Occupational Health and Wellness Total,,,,18
+8.12,Develop a Community Investment Plan,Communications,Director,MC900007,12
+8.12,,Corporate Services,Director,AT099584,20
+8.12,Develop a Community Investment Plan Total,,,,32
+9.03,Non-Federal Funding Procurement Manual Approval,Financial Management,Director,AT104919,80
+9.03,Non-Federal Funding Procurement Manual Approval Total,,,,80
+9.07,System Operation Principles Regulatory Approval,Regulatory,Director,AT201990,17.5
+9.07,System Operation Principles Regulatory Approval Total,,,,17.5
+10.02,"Assuming Responsibility for Securing Use of Assets, Facilities, IT / OT, etc.",Financial Management,Director,MC900016,49.5
+10.02,,Financial Management,Director,QS017186,1
+10.02,,Financial Management,Senior Analyst,AT017528,26
+10.02,,Financial Management,Senior Manager,AT114365,10
+10.02,"Assuming Responsibility for Securing Use of Assets, Facilities, IT / OT, etc. Total",,,,86.5
+10.03,Assuming Existing Subcontracts,Financial Management,Senior Analyst,AT017528,82
+10.03,,Financial Management,Vice President,AT115657,37.5
+10.03,Assuming Existing Subcontracts Total,,,,119.5
+12.02,Required Insurance,Financial Management,Manager,QS017134,2
+12.02,,Financial Management,Manager,QS061408,33.5
+12.02,Required Insurance Total,,,,35.5
+12.03,Baseline Performance Levels,Regulatory,Director,AT201990,16
+12.03,,Utility Transformation,Senior Director,QT088289,29.5
+12.03,Baseline Performance Levels Total,,,,45.5
+12.1,Section 4.5: Conditions Precedent to Service Commencement Date,Legal,Vice President,QS045177,51.5
+12.1,Section 4.5: Conditions Precedent to Service Commencement Date Total,,,,51.5
+Non HOC 06,Regulatory Support of Handover Checklist Items,Regulatory,Director,AT201990,123.5
+Non HOC 06,Regulatory Support of Handover Checklist Items Total,,,,123.5
+Non HOC 07,Front-End Transition Legal support and advice,Legal,Administrative Support,QS100254,1.5
+Non HOC 07,Front-End Transition Legal support and advice Total,,,,1.5
+Non HOC 10,Interconnection Agreements,Utility Transformation,Vice President,QT088015,4
+Non HOC 10,Interconnection Agreements Total,,,,4
+Non HOC 13,IRP Coordination,Regulatory,Director,QT088262,39
+Non HOC 13,IRP Coordination Total,,,,39
+Non HOC 14,GenCo-GridCo integration,Regulatory,Engineer,QT088325,48
+Non HOC 14,GenCo-GridCo integration Total,,,,48
+Non HOC 15,LUMA MC Ongoing Back Office Support,Financial Management,Director,QS183719,4
+Non HOC 15,LUMA MC Ongoing Back Office Support Total,,,,4
+Non HOC 16,PREB Resolutions and Orders,Regulatory,Director,AT201990,118.5
+Non HOC 16,,Utility Transformation,Director,QT088262,113
+Non HOC 16,,Utility Transformation,Engineer,QT088329,36.5
+Non HOC 16,,Utility Transformation,Vice President,QT088208,7
+Non HOC 16,,Utility Transformation,Vice President,QT088356,8
+Non HOC 16,PREB Resolutions and Orders Total,,,,283
+Non HOC 18,FOMB Fiscal Plan and Protocol Agreement,Financial Management,Manager,AT103739,6
+Non HOC 18,,Regulatory,Director,AT201990,55
+Non HOC 18,FOMB Fiscal Plan and Protocol Agreement Total,,,,61
